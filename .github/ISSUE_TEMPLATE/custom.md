@@ -1,10 +1,10 @@
 ---
-name: ToDo template
+name: kanban template
 about: See .github/ISSUE_TEMPLATE/custom.md
 title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
-projects: 'kaitas/ToDo'
-assignees: 'kaitas'
+projects: 'karaage0703/kanban'
+assignees: 'karaage0703'
 
 ---
 
